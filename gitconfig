@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = michaelpitop2@gmail.com
+	name = Michael\tPitopoulakis michaelpitop2@gmail.com
